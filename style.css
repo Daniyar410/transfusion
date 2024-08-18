@@ -1,0 +1,28 @@
+.box{
+    border: 2px solid black;
+    width: max-content;
+    text-align: center;
+
+    margin: 0 auto;
+    padding: 25px;
+}
+
+.black{
+    border: 2px solid white;
+    background-color: black;
+    color: #fff;
+}
+
+.white{
+    border: 2px solid black;
+    background-color: #fff;
+    color: black;
+}
+
+.transfusion{
+    background-color: #000;
+}
+
+.white2{
+    background-color: #fff;
+}
